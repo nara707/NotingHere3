@@ -1,0 +1,52 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/Characters/Enemy_Character/Monstruo.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Blueprints/Enemy_BP.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/PARTICULAS/FUEGO_CARRO/FUEGO.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/UI/OptionPauseMenu.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/UI/Option_Menu.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/ArbolSeco/arbol_seco_Arbol_Seco_001.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Botella/Glass_Bottle_FBX.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Carros/Carro2/model.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Fence/fence.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Maps/LandscapeAloos.umap",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Linterna_Vieja/Lantern.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/LLAVE/Llave.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Mail/mailbox.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/ManHole/sewage.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Linterna_Vieja/BP_LamparaLuz.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Linterna_Vieja/Base_LP.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Botella/Botella_Material.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Blueprints/CollectablesBP.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/LLAVE/Material_001.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/ManHole/Material_001.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/ManHole/Material_002.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Mail/mail_material.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Mesa/mesa.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/OldRadio/OldRadio.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/OldWoodenBucket/Bucke_bucket.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/PALOS_TELEFONICOS/TelephonePoles1.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/ParkingLotLamp/lampara.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/PedestrianTrafficLight/Traffic_Light2.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Puerta/source/Garden_Gate_Iron_fence_3_LP.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Puerta/source/Garden_Gate_Iron_fence_3_LP_001.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/RoadCaution/Road_caution_sign.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Silla/silla.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/Valla_de_madera/RopeFence.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/PedestrianTrafficLight/01_-_Default.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/ParkingLotLamp/BP_LAMPARA.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/RoadCaution/NewMaterial.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Blueprints/PuertaBP.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/TrafficLight/TrafficLight.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/OldWoodenBucket/bucket_wood_mat.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/Modelos/ParkingLotLamp/materialsLiampara.uasset",
+				"C:/Users/paezk/Documents/GitHub/Notting-Here-/Unreal Proyect/NottingHere_OPTVID053 5.7/Content/ThirdPerson/UI/MainMenu.uasset"
+			]
+		}
+	]
+}

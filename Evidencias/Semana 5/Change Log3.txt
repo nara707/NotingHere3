@@ -1,0 +1,20 @@
+Semana 5
+
+Cambios agregados: 
+  Cámara en primera y tercera persona.
+  Creación del BluePrint del Personaje.
+  Nuevo WhiteRoom.
+  Importación de modelos al proyecto (aún no en escena).
+
+Problemas Detectados: 
+  Retraso en reporte de Change Log.
+  El espacio del primer WhiteRoom era demasiado grande, al jugador le tomaría mucho recorrerlo completo.
+
+Soluciones: 
+  Debido al retraso, no hubo solución esa semana.
+  Ligera Reducción del espacio de juego y el WhiteRoom.
+
+Pendientes: 
+  Añadir los modelos a la escena.
+  Configurar el LOD de los modelos.
+  Nanite.

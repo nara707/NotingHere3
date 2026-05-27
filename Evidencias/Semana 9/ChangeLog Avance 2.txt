@@ -1,0 +1,23 @@
+Semana 10
+
+Cambios agregados: 
+  IA básica funcional del enemigo.
+  Acomodo de todos los modelos.
+  Partículas.
+  Destructibles
+  Implementación de UI
+  Jugabilidad Básica.
+  
+
+Problemas Detectados: 
+  Complicaciones en el guardado de datos del juego.
+  Fallo al aplicar cambios en menú de opciones.
+
+Soluciones: 
+  Se deberá trabajar en el guardado de datos para encontrar el problema. 
+  El problema se derivaba de un check en uno de los nodos, al quitarlo, los cambios se aplicaron sin problemas. 
+
+Pendientes: 
+  Resolver guardado de datos del juego. 
+  Dialogo de NPC.
+  Inventario. 

@@ -1,0 +1,22 @@
+Semana 5
+
+Cambios agregados: 
+  Se agregaron algunos modelos a la escena.
+  Configuración de LODs de los modelos.
+  Ciclo de día y noche.
+  Implementación de IA básica del enemigo.
+
+Problemas Detectados: 
+  Retraso en el acomodo de muchos objetos.
+  La IA dejó de moverse sin causa aparente.
+  
+
+Soluciones: 
+  Se tendrá que trabajar en los próximos días para ya tener los modelos en orden.
+  Se deberá investigar la causa del fallo de la IA. 
+
+Pendientes: 
+  Nanite.
+  Resolver el problema de la IA.
+  Dialogo con NPC.
+  Esqueleto de inventario.

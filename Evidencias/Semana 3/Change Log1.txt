@@ -1,0 +1,17 @@
+Semana 3
+
+Cambios agregados: 
+  Creación del repositorio de Git.
+  Creación del documento README.
+  Organización de Carpetas en Git. 
+  Planeación del Proyecto.
+
+Problemas Detectados: 
+  Ligero retraso en el comienzo de la organización.
+
+Soluciones: 
+  Trabajo en equipo para estar al corriente con el plan semanal. 
+
+Pendientes: 
+  White Room y controles en UNREAL. 
+  

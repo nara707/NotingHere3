@@ -1,0 +1,11 @@
+CHANGELOG
+-Semana _____
+
+-Cambios agregados:
+
+-Problemas detectados:
+
+-Soluciones / optimizaciones aplicadas:
+
+-Pendientes:
+

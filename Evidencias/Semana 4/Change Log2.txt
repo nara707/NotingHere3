@@ -1,0 +1,15 @@
+Semana 4
+
+Cambios agregados: 
+  Creación del Landscape con texturizado.
+  Whiteroom básico del entorno.
+  Controles de movimiento con teclado.
+
+Problemas Detectados: 
+  Retraso en reporte de Change Log.
+
+Soluciones: 
+  Debido al retraso, no hubo solución esa semana.
+
+Pendientes: 
+  Cámara en primera y segunda persona.
